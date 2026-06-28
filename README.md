@@ -2,6 +2,8 @@
 
 TypeFlow is a professional, high-performance Windows desktop productivity utility designed to simulate normal keyboard input into whichever application window is currently focused. 
 
+![TypeFlow UI](screenshot.png)
+
 Built with a modular Python/PySide6 architecture, TypeFlow is specifically optimized for batch data entry, automated document typing, and high-frequency administrative workflows.
 
 ---
