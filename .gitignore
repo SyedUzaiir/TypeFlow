@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Testing
+.pytest_cache/
+temp_test_typeflow/
+
+# Logs
+logs/
+*.log
+
+# System / IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
